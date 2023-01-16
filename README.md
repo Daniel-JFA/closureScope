@@ -1,0 +1,2 @@
+# closureScope
+Curso closure
